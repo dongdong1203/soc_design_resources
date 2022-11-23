@@ -1,4 +1,10 @@
-<img src="./readme/title.png"/>
+
+    ___       ___   ___         _             ___                                
+    / __| ___ / __| |   \ ___ __(_)__ _ _ _   | _ \___ ___ ___ _  _ _ _ __ ___ ___
+    \__ \/ _ \ (__  | |) / -_|_-< / _` | ' \  |   / -_|_-</ _ \ || | '_/ _/ -_|_-<
+    |___/\___/\___| |___/\___/__/_\__, |_||_| |_|_\___/__/\___/\_,_|_| \__\___/__/
+                                |___/                                           
+
 
 **A collection of soc/fpga design and prototyping related resources**
 
@@ -37,6 +43,7 @@ https://github.com/riscvarchive/riscv-cores-list
 <br/>
 
 ### IPs
+https://github.com/blackmesalabs/hyperram   
 
 <br/> 
 
