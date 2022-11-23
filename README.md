@@ -39,6 +39,8 @@ https://github.com/riscvarchive/riscv-cores-list
 Great archive  
 https://github.com/riscvarchive/riscv-cores-list   
 
+<br/><br/>
+
 # External Memory (Volatile)
 ## DDR
 <br/>
