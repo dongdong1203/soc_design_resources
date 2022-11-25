@@ -34,11 +34,34 @@ https://github.com/riscvarchive/riscv-cores-list
 <br/> <br/> 
 
 
-# CPU
-## RISC-V
-Great archive  
+# RISC-V CPUs
+## Great archive   
 https://github.com/riscvarchive/riscv-cores-list   
 
+<br/>
+
+## Repos that caught my eye are below   
+
+xilinx-risc-v: PicoRV32 on Xilinx FPGA using Vivado flow   
+https://github.com/irmo-de/xilinx-risc-v   
+
+<br/>
+
+VexRiscv: a RISC-V implementation written in SpinalHDL   
+Multiple core sizes are available + Example SoC
+https://github.com/SpinalHDL/VexRiscv   
+[(example of running linux on this cpu)](https://github.com/litex-hub/linux-on-litex-vexriscv)
+
+<br/>
+
+CVA6 RISC-V CPU: A 6-stage, single issue, in-order CPU which implements the 64-bit RISC-V instruction set.    
+Fully supports a Unix-like operating system.   
+https://github.com/openhwgroup/cva6
+
+<br/> 
+PiFive CPU & SoC Generator: 32-bit RISC-V microcontroller designed in SystemVerilog
+The SoC includes HyperRAM!
+https://github.com/asinghani/pifive-cpu
 <br/><br/>
 
 # External Memory (Volatile)
@@ -71,6 +94,12 @@ As in 2022-Nov-23, this seems like the only pmod compatible HyperRAM breakout bo
 
 
 # Misc. IPs
+### Tons of AXI IPs (Foundation, DMA, Ethernet, etc.) (+ Wishbone, DSP, LFSR)
+https://github.com/alexforencich   
+http://www.alexforencich.com/wiki/en/start
+
+<br/>
+
 ## Foundation IPs
 ### Synthesizable AXI4, AXI4-Lite Foundation IPs (SystemVerilog)   
 https://github.com/pulp-platform/axi
