@@ -18,7 +18,7 @@
 * efabless ([link](https://efabless.com/ "efabless link"))   
 Free silicon for open-source projects sponsored by Google   
   * caravel: SoC plaform by efables ([github link](https://github.com/efabless/caravel))   
-<img src="./readme/efabless_caravel.png" width="512px">
+<img src="./doc/efabless_caravel.png" width="512px">
 
 <br/>
 
@@ -79,7 +79,7 @@ https://github.com/asinghani/pifive-cpu
 
 * PMOD Breakout Board ([Product link](https://1bitsquared.com/products/pmod-hyperram)) ([Github link](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/quadhyperram))   
 Dual PMOD HyperRAM breakout board, available in 8MB and 32MB (8bit wide)      
-<img src="./readme/pmod-hyperram-64mbit-dual-pmod_1024x1024.jpg" width="256px">    
+<img src="./doc/pmod-hyperram-64mbit-dual-pmod_1024x1024.jpg" width="256px">    
 As in 2022-Nov-23, this seems like the only pmod compatible HyperRAM breakout board
 
 <br/>
