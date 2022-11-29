@@ -30,19 +30,13 @@ https://github.com/ucb-bar/chipyard
 * Pulp-platform   
 https://github.com/pulp-platform/pulp
 
-<br/>
-
-## More platforms in this great archive  
-https://github.com/riscvarchive/riscv-cores-list 
-
 <br/> <br/> 
 
 
 # RISC-V CPU
 ## Great archives   
 * https://github.com/riscvarchive/riscv-cores-list   
-
-* https://github.com/troyguo/awesome-dv/blob/master/README.md
+* https://github.com/troyguo/awesome-dv/blob/master/README.md   
 
 <br/>
 
