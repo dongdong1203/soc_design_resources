@@ -72,6 +72,9 @@ https://github.com/asinghani/pifive-cpu
 ## HyperRAM
 <br/>
 
+* Simulation Model   
+Infineon (Cypress) provides system verilog files for behavior simulation
+
 * IPs   
   * https://github.com/blackmesalabs/hyperram   
 
@@ -128,9 +131,10 @@ https://github.com/google/skywater-pdk
 * BML USB 3.0 FPGA INTERFACE OVER PMOD   
 https://blackmesalabs.wordpress.com/2017/12/19/bml-usb-3-0-fpga-interface-over-pmod/
 
+* FuseSoC: Package manager and a set of build tools for HDL code.   
+https://github.com/olofk/fusesoc
+
 <br/> <br/>
-
-
 
 ## etc.
 * CMake, SystemVerilog and SystemC utilities for creating, building and testing RTL projects for FPGAs and ASICs.   
