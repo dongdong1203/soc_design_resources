@@ -44,6 +44,8 @@ https://github.com/pulp-platform/pulp
 
 * xilinx-risc-v: PicoRV32 on Xilinx FPGA using Vivado flow   
 https://github.com/irmo-de/xilinx-risc-v   
+for picorv32 refer to...
+https://github.com/YosysHQ/picorv32
 
 <br/>
 
